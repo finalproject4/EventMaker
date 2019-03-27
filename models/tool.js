@@ -4,8 +4,8 @@ module.exports = (sequelize, DataTypes) => {
     price: DataTypes.DOUBLE,
     type: DataTypes.STRING,
     quantity: DataTypes.INTEGER,
-    user_id: DataTypes.STRING,
-  }, {tableName: "tool"});
+    user_id: DataTypes.INTEGER,
+  }, {tableName: "tools"});
   Tool.associate = function(models) {
     Tool.belongsTo(models.User,{
       foreignKey: "user_id"
