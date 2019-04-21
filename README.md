@@ -17,7 +17,7 @@ It will combine alll the events equipment and halls to just make a reservation o
 We have two kind of users: Customer and Provider,customer will only allow to make a reservations and the provider will add any events equipments.
 
 
-## `Team Meembers:👥`
+## `Team Members:👥`
 1.[Hala ALMaimoni](https://github.com/hala-almaimon)<br>
 2.[Abdulmohsin AlSharhan](https://github.com/Abdulmohsin1994)<br>
 3.[Anfal ALjaferi](https://github.com/anfaljay)<br>
