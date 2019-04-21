@@ -1,11 +1,11 @@
 # مناسبتي 🎊
 
 
-##`Technology:`  💻
+## `Technology:`  💻
 1.React (front-end)
 2.Express (back-end)
 
-##`Features: `📌
+## `Features: `📌
 1.Each user will have his own profile.
 2.Each user can add many quantities for each item.
 3.Error message will apear when the content of item is zero.
