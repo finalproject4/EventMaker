@@ -13,7 +13,7 @@
 
 ## `Our Website's idea:💡`
 In this website we built an event maker or organizer .<br>
-It will combine alll the events equipment and halls to just make a reservation online .<br>
+It will combine all the events equipment and halls to just make a reservation online .<br>
 We have two kind of users: Customer and Provider,customer will only allow to make a reservations and the provider will add any events equipments.
 
 
